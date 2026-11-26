@@ -2773,7 +2773,6 @@
   "audio/stops/Bel Air on the Peak.mp3",
   "audio/stops/Belleview Drive.mp3",
   "audio/stops/Block 1 Wong Chuk Hang Estate.mp3",
-  "audio/stops/Cameron Road .mp3",
   "audio/stops/Caritas Oswald Cheung International House.mp3",
   "audio/stops/Central Ferry - Star Ferry.mp3",
   "audio/stops/Chan Pak Sha School.mp3",
@@ -2787,7 +2786,6 @@
   "audio/stops/Deepdene.mp3",
   "audio/stops/E. TST.mp3",
   "audio/stops/East Tsim Sha Tsui Station.mp3",
-  "audio/stops/East Tsim Sha Tsui.mp3",
   "audio/stops/Elizabeth House.mp3",
   "audio/stops/Exchange Square.mp3",
   "audio/stops/Expo.mp3",
@@ -2872,7 +2870,6 @@
   "audio/stops/Stanley Village.mp3",
   "audio/stops/Statue Square.mp3",
   "audio/stops/Tai Kwun.mp3",
-  "audio/stops/Temple Street.mp3",
   "audio/stops/Terminus.mp3",
   "audio/stops/The Oasis Ap Lei Chau Estate.mp3",
   "audio/stops/The Peninsula.mp3",
@@ -2895,7 +2892,6 @@
   "audio/stops/Wah On House Wah Fu Estate.mp3",
   "audio/stops/Wah Sang House Wah Fu Estate.mp3",
   "audio/stops/Wah Tai House Wah Fu Estate.mp3",
-  "audio/stops/Wan Chai Ferry.mp3",
   "audio/stops/Wan Chai Promenade.mp3",
   "audio/stops/West Kowloon Cultural District.mp3",
   "audio/stops/Western Market.mp3",
@@ -2931,5 +2927,6 @@
   "audio/welcome/CTB 72A TO SW_01.mp3",
   "audio/welcome/CTFR welcome(To Air.mp3",
   "audio/welcome/CTFR+Cathay.mp3",
-  "audio/welcome/CTFR_HZMB-AIR.mp3"
+  "audio/welcome/CTFR_HZMB-AIR.mp3",
+  "audio/welcome/H2K_STF.mp3"
 ]
